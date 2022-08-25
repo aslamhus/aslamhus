@@ -1,4 +1,4 @@
-### Hi, I'm Aslam Husain 👋🏽
+### Hi, I'm Aslam 👋🏽
 
 
 - 🧑‍💻 Part time coder since the early 2000s  
