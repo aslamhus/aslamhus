@@ -15,10 +15,10 @@ I Love writing **vanilla javascript**, love the functional programming of **Reac
 ## Things I've built recently
 
 ### Backup applet
-Most recently, I built an applet that automates backing up all the websites on my server using Linux/Applescript. It has uses an applescript progress bar that keeps me apprised of the backup processes (Archiving, rsyncing, etc). It organises each snapshot by date, and I can customise the backup for each site's needs with a .backupignore file. It also sends me an email report if the backup fails or is successful every month. 
+Most recently, I used **Linux/Applescript** to build an applet that automates the backup of all the websites on my server. A cron job runs the app every month. It shows a progress bar that keeps me apprised of each backup's status/progress (archiving directories, rsyncing, etc). It organises each backup/snapshot of each site by date, and I can customise the backup for each site's needs with a .backupignore file. It also sends me an email report if the backup fails or is successful every month. 
 
 ### My first NPM package!
-I use the File API a lot, so I decided to create a package I could reuse that selects files, generates previews of the files, and reads the files in order to upload to the server. You can check it out here [@aslamhus/fileselect](https://github.com/aslamhus/fileselect)
+I use the File API a lot in my projects, so I decided to create a package I could reuse that selects files, generates previews of the files, and reads the files in order to upload to the server. You can check it out here [@aslamhus/fileselect](https://github.com/aslamhus/fileselect)
 
 ## Languages and frameworks I use
 
