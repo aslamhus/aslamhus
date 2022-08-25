@@ -1,9 +1,11 @@
-### Hi! 
+### Hi, I'm Aslam Husain!
 
-📷 I'm a photographer 
-🎭 A long time ago, in a galaxy far far away, an actor
-🧑‍💻 Part time coder since the early 2000s 
-🌱 Currently learning websockets/service workers
+- 📷 I'm a photographer 
+- 🎭 A long time ago, in a galaxy far far away, an actor 
+- 🧑‍💻 Part time coder since the early 2000s  
+- 🌱 Currently learning websockets/service workers 
+
+
 
 <!--
 **aslamhus/aslamhus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
