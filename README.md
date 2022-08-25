@@ -1,8 +1,9 @@
 ### Hi, I'm Aslam Husain 👋🏽
 
-- 📷 I'm a photographer
-- 🎭 A long time ago, in a galaxy far far away, an actor 
+
 - 🧑‍💻 Part time coder since the early 2000s  
+- 📷 Photographer
+- 🎭 A long time ago, in a galaxy far far away, an actor 
 - 🌱 Currently learning websockets/service workers 
 
 I've been a self taught web developer for about 15 years. My first foray into coding was in the 1990s with Macromedia's Director when I was 10 years old. I was building very basic, very derpy, Final Fantasy inspired RPGs, accompanied by similarly derpy 3D animations I made with Cinema4D. I would pass the games out to my friends in gradeschool via the 100 floppydisks 💾 it took to archive them. (Thankfully ZipDisk came along in '94 - 100 MB of storage, WHAT?!?). There was no youtube, no StackOverflow, and very little documentation available. So progress was... glacial. Now the resources available for learning seem limitless and I am always hungry for more!
