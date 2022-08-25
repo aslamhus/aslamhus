@@ -5,11 +5,11 @@
 - 🧑‍💻 Part time coder since the early 2000s  
 - 🌱 Currently learning websockets/service workers 
 
-I've been a self taught web developer for about 15 years. My first foray into coding was in the 1990s with Macromedia's Director when I was about 10 years old. I was building very basic, very derpy RPGs inspired by Final Fantasy,accompanied by similarly derpy 3D animations I made with Cinema4D. I would pass the games out to my friends in gradeschool via the 100 floppydisks 💾 it took to archive them. (Thankfully ZipDisk came along in '94 - 100 MB of storage, WHAT?!?). There was no youtube, no StackOverflow, and very little documentation available. So progress was... glacial. Now there are resoures to learn everywhere and I am always hungry to learn more!
+I've been a self taught web developer for about 15 years. My first foray into coding was in the 1990s with Macromedia's Director when I was about 10 years old. I was building very basic, very derpy RPGs inspired by Final Fantasy,accompanied by similarly derpy 3D animations I made with Cinema4D. I would pass the games out to my friends in gradeschool via the 100 floppydisks 💾 it took to archive them. (Thankfully ZipDisk came along in '94 - 100 MB of storage, WHAT?!?). There was no youtube, no StackOverflow, and very little documentation available. So progress was... glacial. Now the resources available for learning seem limitless and I am always hungry for more!
 
-I was an actor 🎭 and headshot photographer 📷, but an injury changed all that. So now I am putting all my resources into my love for technology. I still do photography from time to time, [check it out](https://aslamhusainphotography.com).
+I was an actor 🎭 and headshot photographer 📷, but an injury changed all that. So now I am putting all my resources into my love for technology 💻. I still do photography from time to time, check it out ➜ [aslamhusainphotography.com](https://aslamhusainphotography.com).
 
-I Love writing vanilla javascript, love the functional programming of React, but also the OOP discipline of writing PHP classes! I am keen to learn more about lower level languages and improve my knowledge on Data Structures and Algorithms.
+I Love writing **vanilla javascript**, love the functional programming of **React**, but also the OOP discipline of writing **PHP** classes! I am keen to learn more about lower level languages and improve my knowledge of **Data Structures and Algorithms**.
 
 ## Things I've built recently
 
