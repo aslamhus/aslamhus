@@ -14,7 +14,7 @@ I Love writing **vanilla javascript**, love the functional programming of **Reac
 
 ## Things I've built recently
 
-Most recently, I built a applet that automates backing up all the websites on my server using Linux/Applescript. It has uses an applescript progress bar that keeps me apprised of the backup processes (Archiving, rsyncing, etc). It organises each snapshot by date, and I can customise the backup for each site's needs with a .backupignore file. It also sends me an email report if the backup fails or is successful every month. 
+Most recently, I built an applet that automates backing up all the websites on my server using Linux/Applescript. It has uses an applescript progress bar that keeps me apprised of the backup processes (Archiving, rsyncing, etc). It organises each snapshot by date, and I can customise the backup for each site's needs with a .backupignore file. It also sends me an email report if the backup fails or is successful every month. 
 
 ## Languages and frameworks I use
 
