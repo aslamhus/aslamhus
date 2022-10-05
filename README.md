@@ -6,7 +6,7 @@
 - 🎭 A long time ago, in a galaxy far far away, an actor 
 - 🌱 Currently learning websockets/service workers 
 
-I've been a self taught web developer for about 15 years. My first foray into coding was in the 1990s with Macromedia's Director when I was 10 years old. I was building very (VERY) basic, Final Fantasy inspired RPGs, accompanied by similarly earnest 3D animations I made with Cinema4D.  I would pass the games out to my friends in grade school via the 100 floppydisks 💾 it took to archive them. (Thankfully ZipDisk came along in '94 - 100 MB of storage, WHAT?!?). There was no YouTube, no StackOverflow, and very little documentation available. So progress was... glacial. Now the resources available for learning seem limitless and I am always hungry for more!
+I've been a self taught web developer for 15 years. My first foray into coding was in the 1990s with Macromedia's Director when I was 10 years old. I was building very (VERY) basic, Final Fantasy inspired RPGs, accompanied by similarly earnest 3D animations I made with Cinema4D.  I would pass the games out to my friends in grade school via the 100 floppydisks 💾 it took to archive them. (Thankfully ZipDisk came along in '94 - 100 MB of storage, WHAT?!?). There was no YouTube, no StackOverflow, and very little documentation available. So progress was... glacial. Now the resources available for learning seem limitless and I am always hungry for more!
 
 I was an actor and headshot photographer, but a musculo-skeletal disorder changed all that. Now I am putting all my resources into my love for technology 💻. I still do photography from time to time, check it out ➜ [aslamhusainphotography.com](https://aslamhusainphotography.com).
 
@@ -46,6 +46,16 @@ I use the File API a fair bit, so I decided to create a library/package I could 
 - Node 
 - C++
 - Tensor Flow
+
+
+## Some of my recent web dev work
+
+
+[Duende Management](https://www.duendemanagement.com)
+A UK based Talent agency. Built with Wix. I loved using Wix's javascript framework **Velo** to create an automated display of all the agency's actors. The client is able to update photos, description and stats for each actor without having to touch the design. 
+
+[Kate Novak](https://katenovak.co.uk/)
+A UK based voice over artist. Built with Wordpress. I loved creating two different custom audio players using HTML5 and javascript.
 
 
 <!--
