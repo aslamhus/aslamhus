@@ -7,7 +7,7 @@
 - 🌱 Currently learning websockets/service workers 
 
 
-I am proficient in PHP, 
+I am proficient in PHP, Javascript, CSS and React and also have experience as a System Administrator and Database manger. 
 
 I was an actor and headshot photographer, but a musculo-skeletal disorder changed all that. Now I am putting all my resources into my love for technology 💻. I still do photography from time to time, check it out ➜ [aslamhusainphotography.com](https://aslamhusainphotography.com).
 
@@ -27,6 +27,10 @@ For a project I'm currently working on I need to stitch multiple videos together
 The second problem was to handle looping of the videos. Each video in the grid loops, so the entire grid video must loop as well. The hitch is that the videos have variable lengths. I used the euclidian lowest common denomintaor and prime factorization in order to determine the shortest length the grid video would have to be in order to accommodate all the loops of the videos. 
 
 I wrote a series of PHP classes to solve these problems and stich the videos together serverside using FFMPEG on the commandline.
+
+### PHP QueryBuilder and Database Classes
+
+I wrote my own Database and Query Builder classes with a fluent interface design to simply MYSQL queries that are modular and easy to use. I tried to balance flexibiltiy with complexity, leaving room to scale the classes for more sophisticated queries, while also avoiding unncessary bloat. I wrote a higher level Search Class to allow me to perform FULLTEXT match...against searches and searche that leverage the LIKE operator with wildcards. I enjoyed writing with the fluent design pattern because it makes code very readable and flexible.
 
 
 ### React Table Component
