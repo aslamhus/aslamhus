@@ -32,6 +32,10 @@ I wrote a series of PHP classes to solve these problems and stich the videos tog
 
 I wrote my own Database and Query Builder classes with a fluent interface design to simply MYSQL queries that are modular and easy to use. I tried to balance flexibiltiy with complexity, leaving room to scale the classes for more sophisticated queries, while also avoiding unncessary bloat. I wrote a higher level Search Class to allow me to perform FULLTEXT match...against searches and searche that leverage the LIKE operator with wildcards. I enjoyed writing with the fluent design pattern because it makes code very readable and flexible.
 
+### React piano keyboard
+
+For a coming soon landing page for a jazz radio station, I built a simple piano keyboard which is playable with touch or the mouse. See it in action [https://sweethunder.ca](sweetthunder.ca)
+
 
 ### React Table Component
 I other Table component libraries slick and beautiful but often limited in terms of functionality. I built my own Table component that handles operations like sorting, filtering, pagination and select and deleting rows.
