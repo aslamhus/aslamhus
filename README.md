@@ -34,7 +34,7 @@ I wrote my own Database and Query Builder classes with a fluent interface design
 
 ### React piano keyboard
 
-For a coming soon landing page for a jazz radio station, I built a simple piano keyboard which is playable with touch or the mouse. See it in action [https://sweethunder.ca](https://sweetthunder.ca)
+For a coming soon landing page for a jazz radio station, I built a simple piano keyboard which is playable with touch or the mouse. See it in action [https://straightnochaser.ca](https://straightnochaser.ca)
 
 
 ### React Table Component
