@@ -14,6 +14,14 @@ I Love writing **vanilla javascript**, love the functional programming of **Reac
 
 ## Things I've built recently
 
+### Video Editor
+I built a vanilla javascript video editor interface that can handle trimming and cropping videos in browser. While the editor doesn't perform the video manipulation it exports an object with user edits that can be sent to a server where these operations can be performed. You can see a work example here: [https://aslamhusain.com/video-editor/](https://aslamhusain.com/video-editor/)
+
+### React Table Component
+I other Table component libraries slick and beautiful but often limited in terms of functionality. I built my own Table component that handles operations like sorting, filtering, pagination and select and deleting rows.
+
+
+
 ### Backup applet
 Most recently, I used **Linux/Applescript** to build an applet that automates the backup of all the websites on my server. A cron job runs the app every month. It shows a progress bar that keeps me apprised of the backup status/progress (archiving directories, rsyncing, etc). Each backup/snapshot is organised by date and time, and I can customise the needs for each site with a .backupignore file. It also sends me an email report if the backup fails or is successful every month. 
 
@@ -31,6 +39,7 @@ I use the File API a fair bit, so I decided to create a library/package I could 
 - Linux
 - Jquery
 - MYSQL
+- Node
 
 ## Passing familiarity with...
 
