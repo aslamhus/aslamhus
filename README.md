@@ -7,7 +7,7 @@
 - 🌱 Currently learning websockets/service workers 
 
 
-I am proficient in PHP, Javascript, CSS and React and also have experience as a System Administrator and Database manger. 
+I am proficient in PHP, Javascript, CSS and React and also have experience in System Administration, Database mangement and API construction folling RESTFUL principles. 
 
 I was an actor and headshot photographer, but a musculo-skeletal disorder changed all that. Now I am putting all my resources into my love for technology 💻. I still do photography from time to time, check it out ➜ [aslamhusainphotography.com](https://aslamhusainphotography.com).
 
@@ -30,7 +30,8 @@ I wrote a series of PHP classes to solve these problems and stich the videos tog
 
 ### PHP QueryBuilder and Database Classes
 
-I wrote my own Database and Query Builder classes with a fluent interface design to simply MYSQL queries that are modular and easy to use. I tried to balance flexibiltiy with complexity, leaving room to scale the classes for more sophisticated queries, while also avoiding unncessary bloat. I wrote a higher level Search Class to allow me to perform FULLTEXT match...against searches and searche that leverage the LIKE operator with wildcards. I enjoyed writing with the fluent design pattern because it makes code very readable and flexible.
+I wrote my own Database, Search and Query Builder classes, focussing on a fluent interface design to allow method chaining that both simplifies and allows for complex MYSQL queries.  I tried to balance flexibiltiy with complexity, leaving room to scale the classes for more sophisticated queries, while also avoiding unncessary bloat. The higher level Search Class allow me to perform both FULLTEXT match...against searches and searches that leverage the LIKE operator with wildcards. I enjoyed writing with the fluent design pattern because it makes the code both readable and flexible. 
+
 
 ### React piano keyboard
 
@@ -38,7 +39,7 @@ For a Jazz Radio station "coming soon" landing page, I built a simple piano keyb
 
 
 ### React Table Component
-I built my own Table component that handles operations like sorting, filtering, pagination and select and deleting rows.
+I built my own Table component that handles operations like sorting, filtering, pagination and select and deleting rows. This is the front end solution that works nicely with the above database classes.
 
 
 ### Backup applet
