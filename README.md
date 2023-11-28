@@ -28,9 +28,9 @@ The second problem was to handle looping of the videos. Each individual video in
 
 I wrote a series of PHP classes to solve these problems and stich the videos together on the server using FFMPEG.
 
-### PHP QueryBuilder and Database Classes
+### PHP QueryBuilder, Database and Search Classes
 
-I wrote my own Database, Search and Query Builder classes, focussing on a fluent interface design to allow method chaining that both simplifies and allows for complex MYSQL queries.  I tried to balance flexibiltiy with complexity, leaving room to scale the classes for more sophisticated queries, while also avoiding unncessary bloat. The higher level Search Class allow me to perform both FULLTEXT match...against searches and searches that leverage the LIKE operator with wildcards. I enjoyed writing with the fluent design pattern because it makes the code both readable and flexible. 
+I wrote my own Database, Search and Query Builder classes, focusing on a fluent design that enables method chaining to facilitate MYSQL queries.  I tried to balance flexibiltiy with complexity, leaving room to scale the classes for more sophisticated queries, while also avoiding unncessary bloat. I chose PDO as the database interface layer. The higher level Search Class allows me to perform both FULLTEXT match...against searches and searches that leverage the LIKE operator with wildcards. I enjoyed writing with the fluent design pattern because it makes the code both readable and flexible. 
 
 
 ### React piano keyboard
