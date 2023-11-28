@@ -7,7 +7,7 @@
 - 🌱 Currently learning websockets/service workers 
 
 
-I am proficient in PHP, Javascript, CSS and React and also have experience in System Administration, Database mangement and API construction folling RESTFUL principles. 
+I am proficient in PHP, Javascript, CSS and React and also have experience in System Administration, Database mangement and API construction following RESTFUL principles. 
 
 I was an actor and headshot photographer, but a musculo-skeletal disorder changed all that. Now I am putting all my resources into my love for technology 💻. I still do photography from time to time, check it out ➜ [aslamhusainphotography.com](https://aslamhusainphotography.com).
 
