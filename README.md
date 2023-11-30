@@ -39,7 +39,7 @@ For a Jazz Radio station "coming soon" landing page, I built a simple piano keyb
 
 
 ### React Table Component
-I built my own Table component that handles operations like sorting, filtering, pagination and select and deleting rows. This is the front end solution that works nicely with the above database classes.
+I built my own Table component that handles operations like sorting, filtering, pagination and select and deleting rows. A particular challenge was to create an efficient pagination system for result sets with 10s or 100s of pages.
 
 
 ### Backup applet
