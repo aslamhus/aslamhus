@@ -18,6 +18,10 @@ I've been a self taught web developer for 15 years. My first foray into coding w
 
 ## Things I've built recently
 
+
+### GoogleDriveUploader Class
+For a project that required archiving and uploading large audio files to a client's Google Drive account, I built a PHP Class that peforms basic uploads for small files and resumable uploads for large files (in this case over 300MB) with Google Drive API v3.0. While this sounds relatively simple, it required creating a service account to handle authentication on Google Cloud Console, managing chunk uploads for large files, logging any interruptions to the upload process, and performing cURL requests to resume the upload if errors occur. I have made the class public with extensive documentation to support anyone who wants to create their own service account. You can find the repo here: [https://github.com/aslamhus/GoogleDriveUploader](https://github.com/aslamhus/GoogleDriveUploader)
+
 ### Video Editor
 I built a vanilla JavaScript video editor interface that can handle trimming and cropping videos in browser. While the editor doesn't perform any video manipulation by itself, it exports an object with user edits that can be sent to a server where these operations can be performed. You can see a working example here: [https://aslamhusain.com/video-editor/](https://aslamhusain.com/video-editor/)
 
