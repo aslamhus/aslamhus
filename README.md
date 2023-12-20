@@ -13,7 +13,7 @@ I was an actor and headshot photographer, but a musculoskeletal disorder changed
 
 I Love writing **vanilla JavaScript**, love the functional programming of **React**, but also the OOP discipline of writing **PHP** classes! I am keen to learn more about lower level languages and improve my knowledge of **Data Structures and Algorithms**.
 
-I've been a self taught web developer for 15 years. My first foray into coding was in the 1990s with Macromedia's Director (the prehistoric Flash) when I was 10 years old. I was building very (VERY) basic, Final Fantasy inspired RPGs, accompanied by similarly rudimentary, but very earnest 3D animations I made with Cinema4D.  I would pass the games out to my friends in grade school via the 100 floppydisks 💾 it took to archive them. (Thankfully ZipDisk came along in '94 - 100 MB of storage? Revolutionary!). These were simpler times. There was no YouTube, no StackOverflow, and very little documentation available. So progress was... glacial. Now the resources available for learning seem limitless and I am always hungry for more.
+I've been a self taught web developer for 15 years. My first foray into coding was in the 1990s with Macromedia's Director (the prehistoric Flash) when I was 10 years old. I was building very (VERY) basic, Final Fantasy inspired RPGs, accompanied by similarly rudimentary, but very earnest 3D animations I made with Cinema4D.  I would pass the games out to my friends in grade school via floppydisks 💾. (Thankfully ZipDisk came along in '94 - 100 MB of storage? Revolutionary!). These were simpler times. There was no YouTube, no StackOverflow, and very little documentation available. So progress was... glacial. Now the resources available for learning seem limitless and I am always hungry for more.
 
 
 ## Things I've built recently
@@ -35,6 +35,10 @@ I wrote a series of PHP classes to solve these problems and stitch the videos to
 ### PHP QueryBuilder, Database and Search Classes
 
 I wrote my own Database, Search and Query Builder classes, focusing on a fluent design that enables method chaining to facilitate MYSQL queries.  I tried to balance flexibiltiy with complexity, leaving room to scale the classes for more sophisticated queries, while also avoiding unnecessary bloat. I chose PDO as the database interface layer. The higher level Search Class allows me to perform both FULLTEXT match...against searches and searches that leverage the LIKE operator with wildcards. I enjoyed writing with the fluent design pattern because it makes the code both readable and flexible. 
+
+### Simple Log Class
+
+For some of the more complex automations for clients, I am relying more and more on logging to maintain, watch and debug these systems. I built a simple PHP Log class with features for writing, searching, clearing, and overwriting log entries. You can find it here: [https://github.com/aslamhus/Log](https://github.com/aslamhus/Log)
 
 
 ### React piano keyboard
