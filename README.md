@@ -7,7 +7,7 @@
 - 🌱 Currently learning websockets/service workers 
 
 
-I am proficient in PHP, JavaScript, CSS and React and  have experience in Front end development, System Administration, Database management and API construction following RESTFUL principles. I have built many websites from scratch as well as used website builders like Wix, Squarespace and Wordpress.
+I am proficient in PHP, JavaScript, CSS and React and have experience in Front end development, System Administration, Database management and API construction following RESTFUL principles. I have built many websites from scratch as well as used website builders like Wix, Squarespace and Wordpress.
 
 I was an actor and headshot photographer, but a musculoskeletal disorder changed all that. Now I am redirecting all my resources into my love for technology 💻. I still do photography from time to time, check it out ➜ [aslamhusainphotography.com](https://aslamhusainphotography.com).
 
@@ -19,7 +19,7 @@ I've been a self taught web developer for 15 years. My first foray into coding w
 ## Things I've built recently
 
 ### Spotify API Client 
-I built a comprehensive Spotify API Cliet library in PHP to query the Spotify database, build playlists and get user data. It offers multiple options for authentication – managing user permissions, server-to-server use cases and refresh tokens. Other features include an ORM design for entities like Artists, Albums, Tracks and Playlists. You can find the repo here: [https://github.com/aslamhus/Spotify](https://github.com/aslamhus/Spotify)
+I built a Spotify API library in PHP to query the Spotify database, build playlists and get user data. It offers multiple options for authentication – managing user permissions, server-to-server use cases and refresh tokens. Other features include an ORM design for entities like Artists, Albums, Tracks and Playlists. You can find the repo here: [https://github.com/aslamhus/Spotify](https://github.com/aslamhus/Spotify)
 
 ### GoogleDriveUploader Library
 For a project that required archiving and uploading large audio files to a client's Google Drive account, I built a PHP Library that peforms basic uploads for small files and resumable uploads for large files, in this case over 300MB, with the Google Drive API v3.0. I enjoyed the many challenges of building this library such as using generator functions to allow for asynchronous uploads, providing an abort/cancel upload feature, and implementing a resumable upload feature that uploads the file in chunks. This library is publicly available to install via composer `aslamhus/google-drive-uploader`. I have provided extensive documentation about the set up which requires creating a service account on Google Cloud Console to handle authentication. You can find the repo here: [https://github.com/aslamhus/GoogleDriveUploader](https://github.com/aslamhus/GoogleDriveUploader) 
