@@ -19,13 +19,21 @@ I've been a self taught web developer for 15 years. My first foray into coding w
 ## Things I've built recently
 
 ### Spotify API Client 
-I built a Spotify API library in PHP to query the Spotify database, build playlists and get user data. It offers multiple options for authentication – managing user permissions, server-to-server use cases and refresh tokens. Other features include an ORM design for entities like Artists, Albums, Tracks and Playlists. You can find the repo here: [https://github.com/aslamhus/Spotify](https://github.com/aslamhus/Spotify)
+I built a Spotify API library in PHP to query the Spotify database, build playlists and get user data. It offers multiple options for authentication – managing user permissions, server-to-server use cases and refresh tokens. Other features include an ORM design for entities like Artists, Albums, Tracks and Playlists. 
+
+Repo: [https://github.com/aslamhus/Spotify](https://github.com/aslamhus/Spotify)
 
 ### GoogleDriveUploader Library
-For a project that required archiving and uploading large audio files to a client's Google Drive account, I built a PHP Library that peforms basic uploads for small files and resumable uploads for large files, in this case over 300MB, with the Google Drive API v3.0. I enjoyed the many challenges of building this library such as using generator functions to allow for asynchronous uploads, providing an abort/cancel upload feature, and implementing a resumable upload feature that uploads the file in chunks. This library is publicly available to install via composer `aslamhus/google-drive-uploader`. I have provided extensive documentation about the set up which requires creating a service account on Google Cloud Console to handle authentication. You can find the repo here: [https://github.com/aslamhus/GoogleDriveUploader](https://github.com/aslamhus/GoogleDriveUploader) 
+For a project that required archiving and uploading large audio files to a client's Google Drive account, I built a PHP Library that peforms basic uploads for small files and resumable uploads for large files, in this case over 300MB, with the Google Drive API v3.0. I enjoyed the many challenges of building this library such as using generator functions to allow for asynchronous uploads, providing an abort/cancel upload feature, and implementing a resumable upload feature that uploads the file in chunks. This library is publicly available to install via composer `aslamhus/google-drive-uploader`. I have provided extensive documentation about the set up which requires creating a service account on Google Cloud Console to handle authentication.
+
+Repo: [https://github.com/aslamhus/GoogleDriveUploader](https://github.com/aslamhus/GoogleDriveUploader) 
 
 ### Video Editor
-I built a vanilla JavaScript video editor interface that can handle trimming and cropping videos in browser. While the editor doesn't perform any video manipulation by itself, it exports an object with user edits that can be sent to a server where these operations can be performed. You can see a working example here: [https://aslamhusain.com/video-editor/](https://aslamhusain.com/video-editor/)
+I built a vanilla JavaScript video editor interface that can handle trimming and cropping videos in browser. While the editor doesn't perform any video manipulation by itself, it exports an object with user edits that can be sent to a backend service. I welcome contributions. If you are interested in contributing, please check out the repo and read the readme/contributing files.
+
+Repo: [https://github.com/aslamhus/](https://github.com/aslamhus/VideoEditor)
+
+Example: [https://aslamhusain.com/video-editor/](https://aslamhusain.com/video-editor/)
 
 ### Rectangle Packer algorithm
 For a project I'm currently working on I need to stitch multiple videos together on the server to create the illusion of multiple videos playing simultaneously. Playing 10+ simultaneously is not a viable option for the browser. However, stiching the videos together as a single video provides a workaround for browser constraints. But stiching the videos together into a grid on the server posed the following problem,  "how do I fit a variable number of videos into dynamic screen sizes while maximizing the space used?" The videos' aspect ratio is known, but the grid dimensions and screen size are not. I discovered that this is a NP-hard math problem, known as the *Rectangle packing problem* "where the objective is to determine whether a given set of small rectangles can be placed inside a given large polygon, such that no two small rectangles overlap. Several variants of this problem have been studied." I wrote my own heuristic algorithm that finds a best fit by starting with a best guess for the size of each video and then incrementing or decrementing the size until certain optimal constraints are met. 
@@ -34,8 +42,12 @@ The second problem was to handle looping of the videos. Each individual video in
 
 I wrote a series of PHP classes to solve these problems and stitch the videos together on the server using FFMPEG.
 
-You can find the source code for a ```JavaScript``` and ```PHP``` implementation of the algorithm in this [repo](https://github.com/aslamhus/RectanglePacker/). 
-I also made a web application to test and analyse the algorithm, which you can find [here](https://aslamhus.github.io/RectanglePacker/example/)
+You can find the source code for a ```JavaScript``` and ```PHP``` implementation of the algorithm in the Repo. 
+I also made a web application to test and analyse the algorithm which you can play around iwth.
+
+Repo: [https://github.com/aslamhus/RectanglePacker/](https://github.com/aslamhus/RectanglePacker/). 
+
+Example: [https://aslamhus.github.io/RectanglePacker/example](https://aslamhus.github.io/RectanglePacker/example/)
 
 ### PHP QueryBuilder, Database and Search Classes
 
@@ -43,22 +55,27 @@ I wrote my own Database, Search and Query Builder classes, focusing on a fluent 
 
 ### Simple Log Class
 
-For some of the more complex automations for clients, I am relying more and more on logging to maintain, watch and debug these systems. I built a simple PHP Log class with features for writing, searching, clearing, and overwriting log entries. You can find it here: [https://github.com/aslamhus/Log](https://github.com/aslamhus/Log)
+For some of the more complex automations for clients, I am relying more and more on logging to maintain, watch and debug these systems. Though for production APIs I use the excellent library Monolog, I built a lightweight PHP Log class for my own projects with features for writing, searching, clearing, and overwriting log entries. 
 
 
 ### React piano keyboard
-For a Jazz Radio station "coming soon" landing page, I built a simple piano keyboard which is playable with touch or the mouse. See it in action [https://straightnochaser.ca](https://straightnochaser.ca)
+For a Jazz Radio station "coming soon" landing page, I built a simple piano keyboard which is playable with touch or the mouse. 
+
+See it in action [https://straightnochaser.ca](https://straightnochaser.ca)
 
 
 ### React Table Component
 I built my own Table component that handles operations like sorting, filtering, pagination and select and deleting rows. A particular challenge was to create an efficient pagination system for result sets with 10s or 100s of pages.
 
 
-### Backup applet
+### DevOps - Backup applet
 Most recently, I used **Linux/Applescript** to build an applet that automates the backup of all the websites on my server. A cron job runs the app every month. It shows a progress bar that keeps me apprised of the backup status/progress (archiving directories, rsyncing, etc). Each backup/snapshot is organised by date and time, and I can customise the needs for each site with a .backupignore file. It also sends me an email report if the backup fails or is successful every month. 
 
+
 ### My first NPM package!
-I use the File API a fair bit, so I decided to create a library/package I could reuse that selects, reads, and previews files. You can check it out here [@aslamhus/fileselect](https://github.com/aslamhus/fileselect)
+I use the File API a fair bit, so I decided to create a library/package I could reuse that selects, reads, and previews files. 
+
+Check it out here: [@aslamhus/fileselect](https://github.com/aslamhus/fileselect)
 
 ## Languages and frameworks I use
 
