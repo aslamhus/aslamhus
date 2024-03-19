@@ -7,7 +7,7 @@
 - 🌱 Currently learning websockets/service workers 
 
 
-I am proficient in PHP, JavaScript, CSS and React and have experience in Front end development, System Administration, Database management and API construction following RESTFUL principles. I have built many websites from scratch as well as used website builders like Wix, Squarespace and Wordpress.
+I have intermediate to advanced experience in PHP, JavaScript, HTML, CSS and React with experience in Front end development, System Administration, Database management and API construction following RESTFUL principles. I have built many websites from scratch as well as used website builders like Wix, Squarespace and Wordpress.
 
 I was an actor and headshot photographer, but a musculoskeletal disorder changed all that. Now I am redirecting all my resources into my love for technology 💻. I still do photography from time to time, check it out ➜ [aslamhusainphotography.com](https://aslamhusainphotography.com).
 
