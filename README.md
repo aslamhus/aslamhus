@@ -120,7 +120,7 @@ Check it out here: [@aslamhus/fileselect](https://github.com/aslamhus/fileselect
 - Writing (I'm also a playwright/poet)
 
 
-## Some of my recent web dev work
+## Some of my recent web design work
 
 [Cellar Live](https://cellarlive.com)
 A website for one of Canada's leading Jazz Labels. Built with Wix. I am proud of an automated script I wrote for this website which queries their discography and populates their site's database. Previously, their company was having to manually update their discography across Bandcamp and their website, which could be tedious. Now a CRON job handles this for them.
