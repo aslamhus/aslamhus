@@ -18,6 +18,13 @@ I've been a self taught web developer for 15 years. My first foray into coding w
 
 ## Things I've built recently
 
+
+### Wordpress Theme Development Environment package (with hot module replacement)
+
+I built a composer package `aslamhus/wordpress-hmr` which streamlines WordPress theme development by integrating Webpack and HMR (Hot Module Replacement) for real-time updates during development. It provides a simplified asset management system through a configurable assets.json file, enhancing developer efficiency and enabling modern frontend practices within the WordPress ecosystem.
+
+Repo: [https://github.com/aslamhus/WordpressHMR](https://github.com/aslamhus/WordpressHMR)
+
 ### Spotify API Client 
 I built a Spotify API library in PHP to query the Spotify database, build playlists and get user data. It offers multiple options for authentication – managing user permissions, server-to-server use cases and refresh tokens. Other features include an ORM design for entities like Artists, Albums, Tracks and Playlists. 
 
