@@ -13,7 +13,7 @@ I was an actor and headshot photographer, but a musculoskeletal disorder changed
 
 I Love writing **vanilla JavaScript**, love the functional programming of **React**, but also the OOP discipline of writing **PHP** classes! I am keen to learn more about lower level languages and improve my knowledge of **Data Structures and Algorithms**.
 
-I've been a self taught web developer for 15 years. My first foray into coding was in the 1990s with Macromedia's Director (the prehistoric Flash) when I was 10 years old. I was building very (VERY) basic, Final Fantasy inspired RPGs, accompanied by similarly rudimentary, but very earnest 3D animations I made with Cinema4D.  I would pass the games out to my friends in grade school via floppydisks 💾. (Thankfully ZipDisk came along in '94 - 100 MB of storage? Revolutionary!). These were simpler times. There was no YouTube, no StackOverflow, and very little documentation available. So progress was... glacial. Now the resources available for learning seem limitless and I am always hungry for more.
+I've been a self taught web developer for 15 years. My first foray into coding was in the 1990s with Macromedia's Director (the prehistoric Flash) when I was 10 years old and since then I've never stopped learning. 
 
 
 ## Things I've built recently
