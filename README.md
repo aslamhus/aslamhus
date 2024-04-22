@@ -40,7 +40,6 @@ I built a vanilla JavaScript video editor interface that can handle trimming and
 
 Repo: [https://github.com/aslamhus/](https://github.com/aslamhus/VideoEditor)
 
-Example: [https://aslamhusain.com/video-editor/](https://aslamhusain.com/video-editor/)
 
 ### Rectangle Packer algorithm
 For a project I'm currently working on I need to stitch multiple videos together on the server to create the illusion of multiple videos playing simultaneously. Playing 10+ simultaneously is not a viable option for the browser. However, stiching the videos together as a single video provides a workaround for browser constraints. But stiching the videos together into a grid on the server posed the following problem,  "how do I fit a variable number of videos into dynamic screen sizes while maximizing the space used?" The videos' aspect ratio is known, but the grid dimensions and screen size are not. This is a NP-hard math problem, known as the *Rectangle packing problem*. I wrote my own heuristic algorithm that finds a best fit by starting with a best guess for the size of each video and then incrementing or decrementing the size until certain optimal constraints are met. 
