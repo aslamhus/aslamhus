@@ -4,7 +4,6 @@
 - 🧑‍💻 Full Stack Developer
 - 📷 Photographer
 - 🎭 A long time ago, in a galaxy far far away, an actor 
-- 🌱 Currently learning websockets/service workers 
 
 
 I have intermediate to advanced experience in PHP, JavaScript, HTML, CSS and React with experience in Front end development, System Administration, Database management and API construction following RESTFUL principles. I have built many websites from scratch as well as used website builders like Wix, Squarespace and Wordpress.
