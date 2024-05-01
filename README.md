@@ -6,13 +6,13 @@
 - 🎭 A long time ago, in a galaxy far far away, an actor 
 
 
-I have intermediate to advanced experience in PHP, JavaScript, HTML, CSS and React with experience in Front end development, System Administration, Database management and API construction following RESTFUL principles. I have built many websites from scratch as well as used website builders like Wix, Squarespace and Wordpress.
+I have experience in PHP, JavaScript, HTML, CSS, MYSQL and React with experience in front end development, system administration, database management and API construction. Over 15 years, I have built many websites from scratch and with platforms like Wix, Squarespace and Wordpress.
 
-I was an actor and headshot photographer, but a musculoskeletal disorder changed all that. Now I am redirecting all my resources into my love for technology 💻. I still do photography from time to time, check it out ➜ [aslamhusainphotography.com](https://aslamhusainphotography.com).
+After a musculoskeletal disorder changed the course of my life, I left the arts and redirected all my resources into a love for technology 💻. When I am able, I still take the occasional photograph ➜ [aslamhusainphotography.com](https://aslamhusainphotography.com).
 
-I Love writing **vanilla JavaScript**, love the functional programming of **React**, but also the OOP discipline of writing **PHP** classes! I am keen to learn more about lower level languages and deepen my knowledge of **Data Structures and Algorithms**.
+Programming is a passion (code is poetry!). I love writing **vanilla JavaScript**, and the functional programming of **React**, but also the OOP discipline of writing **PHP** classes! As a self taught developer, I am always keen to learn more, particularly about lower level languages and **Data Structures and Algorithms**.
 
-I've been a self taught web developer for 15 years. My first foray into coding was in the 1990s with Macromedia's Director (the prehistoric Flash) when I was 10 years old and since then I've never stopped learning. 
+My first foray into coding was in the 1990s with Macromedia's **Director** (the prehistoric Flash). When I was 10 years old, I learned to program basic RPGs with action script and since then I've never stopped learning. 
 
 
 ## Things I've built recently
