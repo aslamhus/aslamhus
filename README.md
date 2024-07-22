@@ -120,8 +120,8 @@ Check it out here: [@aslamhus/fileselect](https://github.com/aslamhus/fileselect
 
 ## Some of my recent web design work
 
-[Cellar Live](https://cellarlive.com)
-A website for one of Canada's leading Jazz Labels. Built with Wix. I am proud of an automated script I wrote for this website which queries their discography and populates their site's database. Previously, their company was having to manually update their discography across Bandcamp and their website, which could be tedious. Now a CRON job handles this for them.
+[Cory Weeds](https://coryweeds.com)
+A website for one of Canada's leading Jazz musicians. Built with Wordpress. This website has several custom plugins, including a bandcamp plugin that displays all the artists available music in a custom music player. 
 
 [Duende Management](https://www.duendemanagement.com)
 A UK based Talent agency. Built with Wix. I loved using Wix's javascript framework **Velo** to create an automated display of all the agency's actors. The client is able to update photos, description and stats for each actor without having to touch the design. 
