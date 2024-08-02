@@ -6,7 +6,7 @@
 - 🎭 A long time ago, in a galaxy far far away, an actor 
 
 
-I have experience in PHP, JavaScript, HTML, CSS, MYSQL and React with experience in front end development, system administration, database management and API construction. Over 15 years, I have built many websites from scratch and with platforms like Wix, Squarespace and Wordpress.
+I am proficient in PHP, JavaScript, HTML, CSS, MYSQL and React with experience in front end development, system administration, database management and small API construction. Over 15 years, I have built many websites from scratch and with platforms like Wix, Squarespace and Wordpress.
 
 After a musculoskeletal disorder changed the course of my life, I left the arts and redirected all my resources into a love for technology 💻. When I am able, I still take the occasional photograph ➜ [aslamhusainphotography.com](https://aslamhusainphotography.com).
 
