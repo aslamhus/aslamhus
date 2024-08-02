@@ -8,7 +8,7 @@
 
 I am proficient in PHP, JavaScript, HTML, CSS, MYSQL and React with experience in front end development, system administration, database management and small API construction. Over 15 years, I have built many websites from scratch and with platforms like Wix, Squarespace and Wordpress.
 
-After a musculoskeletal disorder changed the course of my life, I left the arts and redirected all my resources into a love for technology 💻. When I am able, I still take the occasional photograph ➜ [aslamhusainphotography.com](https://aslamhusainphotography.com).
+After I developed a myofascial disorder, I left the arts and redirected all my resources into my love for technology 💻. When I am able, I still take the occasional photograph ➜ [aslamhusainphotography.com](https://aslamhusainphotography.com).
 
 Programming is a passion (code is poetry!). I love writing **vanilla JavaScript**, and the functional programming of **React**, but also the OOP discipline of writing **PHP** classes! As a self taught developer, I am always keen to learn more, particularly about lower level languages and **Data Structures and Algorithms**.
 
