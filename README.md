@@ -6,17 +6,21 @@
 - 🎭 A long time ago, in a galaxy far far away, an actor 
 
 
-I am proficient in PHP, JavaScript, HTML, CSS, MYSQL and React with experience in front end development, system administration, database management and small API construction. Over 15 years, I have built many websites from scratch and with platforms like Wix, Squarespace and Wordpress.
+I am proficient in PHP, JavaScript, HTML, CSS, MYSQL and React with experience in front end development, system administration, database management and small API construction. Over 15 years, I have built many websites both from scratch and with popular platforms like Wix, Squarespace and Wordpress.
 
 After I developed a myofascial disorder, I left the arts and redirected all my resources into my love for technology 💻. When I am able, I still take the occasional photograph ➜ [aslamhusainphotography.com](https://aslamhusainphotography.com).
 
-Programming is a passion (code is poetry!). I love writing **vanilla JavaScript**, and the functional programming of **React**, but also the OOP discipline of writing **PHP** classes! As a self taught developer, I am always keen to learn more, particularly about lower level languages and **Data Structures and Algorithms**.
+Programming is a passion (code is poetry!). I love writing **vanilla JavaScript**, as well as the functional programming paradigm of **React**, but also the OOP discipline of writing **PHP** classes! As a self taught developer, I am always keen to learn more, particularly about lower level languages and **Data Structures and Algorithms**.
 
 My first foray into coding was in the 1990s with Macromedia's **Director** (the prehistoric Flash). When I was 10 years old, I learned to program basic RPGs with action script and since then I've never stopped learning. 
 
 
 ## Things I've built recently
 
+
+### Bandcamp Player
+
+I built a Wordpress plugin / custom block using React and PHP that displays artists' 15 most recent albums and allows them to be played in the browser. To see a demo of the plugin you can head to [https://coryweeds.com/music](https://coryweeds.com/music/). The player looks best on desktop  or laptop screens. I used Spotify's UI as inspiration. Eventually, I'd like to make this plugin publicly available / licensable. 
 
 ### Wordpress Theme Development Environment package (with hot module replacement)
 
