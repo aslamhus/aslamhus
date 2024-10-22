@@ -23,6 +23,7 @@ My first foray into coding was in the 1990s with Macromedia's **Director** (the 
 I built a vanilla JavaScript video editor interface that can handle trimming and cropping videos in browser. While the editor doesn't perform any video manipulation by itself, it exports an object with user edits that can be sent to a backend service. I welcome contributions. If you are interested in contributing, please check out the repo and read the readme/contributing files.
 
 Repo: [https://github.com/aslamhus/](https://github.com/aslamhus/VideoEditor)
+
 Demo: [https://aslamhusain.com/video-editor/]
 
 ### Bandcamp Player
@@ -59,7 +60,7 @@ I also made a web application to test and analyse the algorithm which you can pl
 
 Repo: [https://github.com/aslamhus/RectanglePacker/](https://github.com/aslamhus/RectanglePacker/). 
 
-Example: [https://aslamhus.github.io/RectanglePacker/example](https://aslamhus.github.io/RectanglePacker/example/)
+Demo: [https://aslamhus.github.io/RectanglePacker/example](https://aslamhus.github.io/RectanglePacker/example/)
 
 ### PHP QueryBuilder, Database and Search Classes
 
