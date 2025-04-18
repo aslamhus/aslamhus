@@ -114,6 +114,12 @@ Repo: [@aslamhus/fileselect](https://github.com/aslamhus/fileselect)
 - Video Editing (Final Cut Pro X)
 - Writing (playwright/poet)
 
+
+
+
+<!-- 
+UNUSED
+
 ## Some of my recent web design work
 
 [Cory Weeds](https://coryweeds.com)
@@ -124,10 +130,6 @@ A UK based Talent agency. Built with Wix. I loved using Wix's javascript framewo
 
 [Kate Novak](https://katenovak.co.uk/)
 A UK based voice over artist. Built with Wordpress. I loved creating two different custom audio players using HTML5 and javascript.
-
-
-<!-- 
-UNUSED
 
 ### Simple Log Class
 
