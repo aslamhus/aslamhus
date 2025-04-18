@@ -9,7 +9,7 @@ I am proficient in PHP, JavaScript, HTML, CSS, MYSQL and React with experience i
 
 ## A little about me
 
-After I developed a chronic pain condition, myofascial pain syndrome, I left the arts and redirected all my resources into the tech world 💻. When I am able, I still take the occasional photograph ➜ [aslamhusainphotography.com](https://aslamhusainphotography.com).
+After I developed a chronic pain condition (myofascial pain syndrome), I left the arts and redirected all my resources into the tech world 💻. When I am able, I still take the occasional photograph ➜ [aslamhusainphotography.com](https://aslamhusainphotography.com)
 
 Programming is a passion (code is poetry!). I love writing **vanilla JavaScript**, as well as the functional programming paradigm of **React**, but also the OOP discipline of writing **PHP** classes. As a self taught developer, I am always keen to learn more, particularly about lower level languages and **Data Structures and Algorithms**.
 
